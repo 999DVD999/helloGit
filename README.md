@@ -1,7 +1,7 @@
 # helloGit
 * hehe *
 
-# Test2?
+# Tes2?
 Just testing Git...
 # 👌
 
@@ -10,3 +10,5 @@ Test2
 yujuuu
 
 editado desdde mi pc
+
+leemeeee.md
