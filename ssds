@@ -1,0 +1,51 @@
+[33mcommit 9af052859b3a57ab9bfabcacc5ac3527dada764e[m[33m ([m[1;36mHEAD -> [m[1;32mtest1[m[33m, [m[1;31morigin/test1[m[33m)[m
+Author: David <david.big.ban@gmail.com>
+Date:   Tue Nov 26 19:03:49 2019 +0100
+
+    ya vale eh
+
+[33mcommit 99a517058b8099d5da14ba598c17af5a2f1f850b[m
+Author: David <david.big.ban@gmail.com>
+Date:   Tue Nov 26 18:52:15 2019 +0100
+
+    Pues otro commit mas
+    suiu
+
+[33mcommit 85407199bad4637100d1335bbd2aa5e143b024c3[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m
+Author: David <david.big.ban@gmail.com>
+Date:   Tue Nov 26 18:29:51 2019 +0100
+
+    Pues nada, ya ses usar estoe
+    sdsds
+    sdsdds
+    
+    dfef
+
+[33mcommit 6fd42d73d106cd6e4d96bd04d729a3660abf8ffd[m
+Merge: 1d38c79 1df28d5
+Author: 999DVD999 <david.big.ban@gmail.com>
+Date:   Tue Nov 26 17:48:35 2019 +0100
+
+    Merge pull request #1 from 999DVD999/edit-readme
+    
+    Update README.md
+
+[33mcommit 1df28d5f5cd6d48636dcb51def4fa1c6a905ce5c[m
+Author: 999DVD999 <david.big.ban@gmail.com>
+Date:   Tue Nov 26 17:43:22 2019 +0100
+
+    Update README.md
+    
+    No me gustaba ese tag
+
+[33mcommit 1d38c795825daa66b630aac59e1220ff239659eb[m
+Author: 999DVD999 <david.big.ban@gmail.com>
+Date:   Tue Nov 26 17:40:20 2019 +0100
+
+    Update README.md
+
+[33mcommit 994e747ae3669b4eb50f40115b28a8416986b2d0[m
+Author: 999DVD999 <david.big.ban@gmail.com>
+Date:   Tue Nov 26 17:36:47 2019 +0100
+
+    Initial commit
